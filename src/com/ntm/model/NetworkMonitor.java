@@ -10,12 +10,6 @@ import java.util.TimerTask;
 
 import com.ntm.view.NetworkMonitorGUI;
 
-///////////////////////////////////////////////////////////////////////////
-///											   						    ///
-/// PLEASE FEEL FREE TO CHANGE AND IMPROVE WHAT HAS BEEN IMPLEMENETED!  ///
-///															  		    ///
-///////////////////////////////////////////////////////////////////////////
-
 public class NetworkMonitor extends TimerTask {
 
 	// Sends ping request to a provided IP address
